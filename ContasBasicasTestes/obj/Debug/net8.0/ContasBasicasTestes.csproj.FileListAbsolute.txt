@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\bin\Debug\net8.0\ContasBasicasTestes.deps.json
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\bin\Debug\net8.0\ContasBasicasTestes.dll
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\bin\Debug\net8.0\ContasBasicasTestes.pdb
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\obj\Debug\net8.0\ContasBasicasTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\obj\Debug\net8.0\ContasBasicasTestes.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\obj\Debug\net8.0\ContasBasicasTestes.AssemblyInfo.cs
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\obj\Debug\net8.0\ContasBasicasTestes.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\obj\Debug\net8.0\ContasBasicasTestes.dll
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\obj\Debug\net8.0\refint\ContasBasicasTestes.dll
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\obj\Debug\net8.0\ContasBasicasTestes.pdb
+C:\Users\SENAI3EM\Documents\Testes\ContasBasicasTestes\ContasBasicasTestes\obj\Debug\net8.0\ref\ContasBasicasTestes.dll

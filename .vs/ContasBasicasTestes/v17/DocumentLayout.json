@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0EEA73-FB94-4F1C-9F96-F44B531999DF}|ContasBasicasTestes\\ContasBasicasTestes.csproj|c:\\users\\senai3em\\documents\\testes\\contasbasicastestes\\contasbasicastestes\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0EEA73-FB94-4F1C-9F96-F44B531999DF}|ContasBasicasTestes\\ContasBasicasTestes.csproj|solutionrelative:contasbasicastestes\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711819E2-A93C-499A-9FC3-95C4D9E27A3A}|CalculadoraTest\\CalculadoraTest.csproj|c:\\users\\senai3em\\documents\\testes\\contasbasicastestes\\calculadoratest\\vototestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711819E2-A93C-499A-9FC3-95C4D9E27A3A}|CalculadoraTest\\CalculadoraTest.csproj|solutionrelative:calculadoratest\\vototestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0EEA73-FB94-4F1C-9F96-F44B531999DF}|ContasBasicasTestes\\ContasBasicasTestes.csproj|c:\\users\\senai3em\\documents\\testes\\contasbasicastestes\\contasbasicastestes\\equacaoquadratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0EEA73-FB94-4F1C-9F96-F44B531999DF}|ContasBasicasTestes\\ContasBasicasTestes.csproj|solutionrelative:contasbasicastestes\\equacaoquadratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711819E2-A93C-499A-9FC3-95C4D9E27A3A}|CalculadoraTest\\CalculadoraTest.csproj|c:\\users\\senai3em\\documents\\testes\\contasbasicastestes\\calculadoratest\\equacaoquadraticatestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711819E2-A93C-499A-9FC3-95C4D9E27A3A}|CalculadoraTest\\CalculadoraTest.csproj|solutionrelative:calculadoratest\\equacaoquadraticatestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711819E2-A93C-499A-9FC3-95C4D9E27A3A}|CalculadoraTest\\CalculadoraTest.csproj|c:\\users\\senai3em\\documents\\testes\\contasbasicastestes\\calculadoratest\\calculadoratestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711819E2-A93C-499A-9FC3-95C4D9E27A3A}|CalculadoraTest\\CalculadoraTest.csproj|solutionrelative:calculadoratest\\calculadoratestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0EEA73-FB94-4F1C-9F96-F44B531999DF}|ContasBasicasTestes\\ContasBasicasTestes.csproj|c:\\users\\senai3em\\documents\\testes\\contasbasicastestes\\contasbasicastestes\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0EEA73-FB94-4F1C-9F96-F44B531999DF}|ContasBasicasTestes\\ContasBasicasTestes.csproj|solutionrelative:contasbasicastestes\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VotoTestes.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\CalculadoraTest\\VotoTestes.cs",
+              "RelativeDocumentMoniker": "CalculadoraTest\\VotoTestes.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\CalculadoraTest\\VotoTestes.cs",
+              "RelativeToolTip": "CalculadoraTest\\VotoTestes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:20:15.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Voto.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\ContasBasicasTestes\\Voto.cs",
+              "RelativeDocumentMoniker": "ContasBasicasTestes\\Voto.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\ContasBasicasTestes\\Voto.cs",
+              "RelativeToolTip": "ContasBasicasTestes\\Voto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:18:05.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquacaoQuadraticaTestes.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\CalculadoraTest\\EquacaoQuadraticaTestes.cs",
+              "RelativeDocumentMoniker": "CalculadoraTest\\EquacaoQuadraticaTestes.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\CalculadoraTest\\EquacaoQuadraticaTestes.cs",
+              "RelativeToolTip": "CalculadoraTest\\EquacaoQuadraticaTestes.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:59:05.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquacaoQuadratica.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\ContasBasicasTestes\\EquacaoQuadratica.cs",
+              "RelativeDocumentMoniker": "ContasBasicasTestes\\EquacaoQuadratica.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\ContasBasicasTestes\\EquacaoQuadratica.cs",
+              "RelativeToolTip": "ContasBasicasTestes\\EquacaoQuadratica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:57:47.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraTestes.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\CalculadoraTest\\CalculadoraTestes.cs",
+              "RelativeDocumentMoniker": "CalculadoraTest\\CalculadoraTestes.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\CalculadoraTest\\CalculadoraTestes.cs",
+              "RelativeToolTip": "CalculadoraTest\\CalculadoraTestes.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:42:56.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\ContasBasicasTestes\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ContasBasicasTestes\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Testes\\ContasBasicasTestes\\ContasBasicasTestes\\Calculadora.cs",
+              "RelativeToolTip": "ContasBasicasTestes\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:33:46.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
